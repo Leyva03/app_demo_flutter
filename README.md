@@ -1,4 +1,4 @@
-# Company Management App (Flutter)
+# Flutter App Demo
 
 This is a test app built with Flutter, allowing users to open dropdowns to view and edit information about the admins, managers, and employees of a company. Additional features are currently under development.
 
